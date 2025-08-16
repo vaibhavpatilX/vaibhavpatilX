@@ -24,41 +24,43 @@
 - 🎯 Goal: Build scalable, impactful software solutions.
 - ⚡ Fun fact: I enjoy creating **reusable code libraries**, contributing to **open source**, and solving challenging problems.
 
+---
+
+### 📚 Learning & Growth Tracker
 <p align="center">
   <img src="https://img.shields.io/badge/Currently%20Learning-Spring%20Boot%20Advanced-blueviolet" />
   <img src="https://img.shields.io/badge/Currently%20Learning-Advanced%20DSA-green" />
+  <img src="https://img.shields.io/badge/Currently%20Learning-Hibernate-orange" />
 </p>
 
 ---
 
 ### 🛠 Tech Stack
 
-<p align="center">
-  <!-- Languages -->
-  <b>Languages:</b> 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-</p>
+#### 💻 Languages
+**Java:** ██████████ 90%  
+**C++:** ████████ 80%  
+**Python:** ███████ 70%  
+**JavaScript:** █████ 50%  
 
-<p align="center">
-  <!-- Frameworks & DB -->
-  <b>Frameworks & Databases:</b>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-</p>
+#### ⚙️ Frameworks & Databases
+**Spring Boot:** ██████ 65%  
+**Hibernate:** █████ 55%  
+**MySQL:** █████ 50%  
+**MongoDB:** █████ 50%  
+**Firebase:** ████ 40%  
 
-<p align="center">
-  <!-- Tools & Cloud -->
-  <b>Tools & Cloud:</b>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-</p>
+#### 🛠 Tools
+**AWS:** ███ 35%  
+**.NET:** ███ 30%  
+**HTML / CSS:** █████ 50%  
+
+---
+
+### 💡 Dev Mood
+☕ Morning: Algorithm & DSA practice  
+🎧 Afternoon: Backend coding & API development  
+🌙 Night: GUI projects & experimenting with Java libraries  
 
 ---
 
