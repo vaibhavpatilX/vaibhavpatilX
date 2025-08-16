@@ -1,6 +1,6 @@
 <!-- GIF Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding in Progress" width="600"/>
+  <img src="https://c.tenor.com/L5Y7ed7bZrIAAAAC/coding.gif" alt="Coding in Progress" width="600"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Vaibhav Patil</h1>
