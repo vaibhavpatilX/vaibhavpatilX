@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Patil</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=00FFDD&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Engineer+%7C+Full-Stack+%26+Backend+Developer;Java+%7C+C%2B%2B+%7C+Python+%7C+Problem+Solver;Open+Source+Contributor+%26+Tech+Enthusiast;Building+Scalable+%26+Impactful+Software" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=00FFDD&center=true&vCenter=true&width=900&lines=B.Tech+Computer+Engineer+%7C+Full-Stack+%26+Backend+Developer;Java+%7C+C%2B%2B+%7C+Python+%7C+Problem+Solver;Open+Source+Contributor+%26+Tech+Enthusiast;Building+Scalable+%26+Impactful+Software" />
 </h3>
 
 <p align="center">
