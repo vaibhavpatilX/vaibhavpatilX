@@ -4,7 +4,9 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Vaibhav Patil</h1>
-<h3 align="center">B.Tech Computer Engineering | Java & C++ Developer | Open Source Contributor</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=FF5733&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Engineer;Java+%26+C+++Developer;Open+Source+Contributor" />
+</h3>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vaibhavpatilX" alt="Visitor Badge"/>
@@ -18,7 +20,7 @@
 - 🎓 2025 B.Tech Computer Engineering graduate with strong coding skills in **Java, C++, C, and Python**.
 - 💻 Passionate about **Backend Development, Data Structures, and Full-Stack Projects**.
 - 🌱 Currently exploring **Spring Boot, Cloud Deployment, and Advanced DSA**.
-- 🎯 Goal: To build scalable, impactful software solutions.
+- 🎯 Goal: Build scalable, impactful software solutions.
 - ⚡ Fun fact: I enjoy creating **reusable code libraries** and solving challenging problems.
 
 <p align="center">
@@ -34,27 +36,25 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
 </p>
 
-**Languages:** `Java` `C++` `C` `Python` `JavaScript` `SQL`  
-**Frameworks & Tools:** `Spring Boot` `MongoDB` `MySQL` `Firebase` `AWS` `.NET` `HTML` `CSS` `Swing & AWT`  
-**Concepts:** `OOP` `Data Structures` `Algorithms` `REST APIs` `Database Design` `Machine Learning`
-
 ---
 
 ### 💡 Projects
 <p align="center">
-  <a href="https://github.com/vaibhavpatilX/Generalized-DSA-Library">📂 Generalized DSA Library</a> - Reusable data structures in C++ & OOP <br>
-  <a href="https://github.com/vaibhavpatilX/GUI-File-Packer-Unpacker">🖥 GUI File Packer</a> - GUI-based Java tool for file encryption <br>
-  <a href="https://github.com/vaibhavpatilX/StudyTracker">📈 StudyTracker</a> - Console-based Java tracker with CSV export <br>
-  <a href="https://github.com/vaibhavpatilX/CUI-File-Packer-Unpacker">💻 CUI File Packer</a> - CLI Java tool with encryption & metadata <br>
-  <a href="https://github.com/vaibhavpatilX/KrishiKartX">🌾 KrishiKartX</a> - Farmer-to-consumer marketplace <br>
-  <a href="#">🚧 CVFS</a> - Upcoming virtual file system project
+  <a href="https://github.com/vaibhavpatilX/Generalized-DSA-Library">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavpatilX&repo=Generalized-DSA-Library&theme=radical" />
+  </a>
+  <a href="https://github.com/vaibhavpatilX/GUI-File-Packer-Unpacker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavpatilX&repo=GUI-File-Packer-Unpacker&theme=radical" />
+  </a>
+  <a href="https://github.com/vaibhavpatilX/StudyTracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavpatilX&repo=StudyTracker&theme=radical" />
+  </a>
 </p>
 
 ---
@@ -64,15 +64,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vaibhavpatilX&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavpatilX&theme=radical" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavpatilX&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
- 
-  <img src="https://github.com/vaibhavpatilX/vaibhavpatilX/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
 </p>
 
 ---
