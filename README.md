@@ -127,11 +127,9 @@ public class Vaibhav {
 
 ## ⏱️ WakaTime Coding Stats
 
-> ⚙️ *[Sign up at wakatime.com](https://wakatime.com) → install plugin in IntelliJ/VS Code → stats appear automatically.*
-
 <div align="center">
 
-[![Vaibhav's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vaibhavpatilX&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800)](https://wakatime.com/@vaibhavpatilX)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=vaibhavpatilX&theme=tokyonight&hide_border=true&layout=compact" />
 
 </div>
 
