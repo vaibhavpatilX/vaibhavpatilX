@@ -111,7 +111,7 @@ public class Vaibhav {
 
 ## 🐍 Contribution Snake
 
-> ⚙️ *Run the `snake.yml` workflow once to activate. After that it auto-updates daily.*
+ <!-- > ⚙️ *Run the `snake.yml` workflow once to activate. After that it auto-updates daily.* -->
 
 <div align="center">
 
