@@ -65,25 +65,38 @@
 ---
 
 ### 💡 Projects
+
 <p align="center">
   <a href="https://github.com/vaibhavpatilX/Generalized-DSA-Library">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavpatilX&repo=Generalized-DSA-Library&theme=radical" />
+    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavpatilX&repo=Generalized-DSA-Library&theme=radical" />
   </a>
+
   <a href="https://github.com/vaibhavpatilX/GUI-File-Packer-Unpacker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavpatilX&repo=GUI-File-Packer-Unpacker&theme=radical" />
-  </a>
-  <a href="https://github.com/vaibhavpatilX/StudyTracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavpatilX&repo=StudyTracker&theme=radical" />
+    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavpatilX&repo=GUI-File-Packer-Unpacker&theme=radical" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/vaibhavpatilX/CUI-File-Packer-Unpacker">
+    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavpatilX&repo=CUI-File-Packer-Unpacker&theme=radical" />
+  </a>
+
+  <a href="https://github.com/vaibhavpatilX/StudyTracker">
+    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavpatilX&repo=StudyTracker&theme=radical" />
+  </a>
+</p>
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavpatilX&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavpatilX&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavpatilX&layout=compact&theme=radical" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaibhavpatilX&show_icons=true&theme=radical&cache_seconds=1800" />
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavpatilX&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavpatilX&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 ---
@@ -92,7 +105,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/cs-er-vaibhav/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"/></a>
   <a href="https://github.com/vaibhavpatilX"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/></a>
-  <a href="mailto:patil.vaibhvax@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:patil.vaibhavx@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
