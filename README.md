@@ -103,15 +103,13 @@ public class Vaibhav {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vaibhavpatilX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=vaibhavpatilX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6&rank=SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
-
- <!-- > ⚙️ *Run the `snake.yml` workflow once to activate. After that it auto-updates daily.* -->
 
 <div align="center">
 
@@ -125,25 +123,29 @@ public class Vaibhav {
 
 ---
 
+<!-- ⏱️ WAKATIME: Uncomment once you sign up at wakatime.com and install the IDE plugin
 ## ⏱️ WakaTime Coding Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=vaibhavpatilX&theme=tokyonight&hide_border=true&layout=compact" />
+[![Vaibhav's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vaibhavpatilX&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800)](https://wakatime.com/@vaibhavpatilX)
 
 </div>
 
 ---
+-->
 
+<!-- 📈 METRICS: Uncomment once you run the metrics.yml workflow
 ## 📈 GitHub Metrics
-
-> ⚙️ *Run the `metrics.yml` workflow once to activate. Generates a rich stats card auto-committed to your repo.*
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/vaibhavpatilX/vaibhavpatilX/main/github-metrics.svg" alt="GitHub Metrics" width="70%" />
 
 </div>
+
+---
+-->
 
 ---
 
@@ -175,7 +177,7 @@ public class Vaibhav {
 
 <div align="center">
 
-![Quote](https://quotes-readme.vercel.app/api/random?type=horizontal&theme=tokyonight)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
