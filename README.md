@@ -1,18 +1,25 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vaibhav%20Patil&fontSize=60&fontColor=00FFDD&fontAlignY=38&desc=Backend%20Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=16&descColor=aaaacc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vaibhav%20Patil&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Backend%20Developer%20%E2%80%A2%20DSA%20Enthusiast%20%E2%80%A2%20Open%20Source&descAlignY=58&descSize=16&descColor=ffffffaa" />
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=600&color=00FFDD&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Engineer+%7C+2025+Graduate;Java+%7C+Spring+Boot+%7C+Backend+Developer;DSA+Enthusiast+%7C+Problem+Solver;Building+Scalable+%26+Impactful+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Vaibhav+%F0%9F%91%8B;B.Tech+Computer+Engineer+%7C+2025+Graduate;Java+%7C+Spring+Boot+%7C+Backend+Dev;Always+learning%2C+always+building+%F0%9F%9A%80" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=vaibhavpatilX&label=Profile%20Views&color=00FFDD&style=flat" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20For-Collaboration-00FFDD?style=flat&logo=handshake&logoColor=black" />
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-Backend%20Development-302b63?style=flat" />
+<a href="https://www.linkedin.com/in/cs-er-vaibhav/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:patil.vaibhavx@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/vaibhavpatilX">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=vaibhavpatilX&label=Profile+Views&color=58A6FF&style=flat" />
+<img src="https://img.shields.io/github/followers/vaibhavpatilX?label=Followers&style=flat&color=58A6FF" />
 
 </div>
 
@@ -22,67 +29,59 @@
 
 ```java
 public class Vaibhav {
-    String degree    = "B.Tech Computer Engineering (2025)";
-    String focus     = "Backend Development & DSA";
-    String[] langs   = {"Java", "C++", "Python", "C"};
-    String[] current = {"Spring Boot", "Hibernate", "Advanced DSA"};
-    String goal      = "Build scalable and impactful software";
-    String fuel      = "☕ Coffee + Code";
+
+    String name     = "Vaibhav Patil";
+    String degree   = "B.Tech Computer Engineering (2025)";
+    String focus    = "Backend Development & DSA";
+    String location = "Pune, Maharashtra 🇮🇳";
+
+    String[] languages = { "Java", "C++", "Python", "C" };
+    String[] learning  = { "Spring Boot", "Hibernate", "Advanced DSA" };
+
+    String goal = "Build scalable and impactful software";
+    String fuel = "☕  Coffee + Code, always.";
 }
 ```
+
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=vaibhavpatilX&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58A6FF&icon_color=58A6FF" />
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+**Languages**
 
-### Frameworks & Databases
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Tools & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Frameworks & Databases**
 
----
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-## 🌱 Currently Learning
+**Tools & Cloud**
 
-<div align="center">
-
-![Spring Boot](https://img.shields.io/badge/🔧%20Spring%20Boot-Advanced-6DB33F?style=flat-square)
-&nbsp;
-![Hibernate](https://img.shields.io/badge/🗄️%20Hibernate-ORM-59666C?style=flat-square)
-&nbsp;
-![DSA](https://img.shields.io/badge/🧠%20Advanced%20DSA-Graphs%20%26%20DP-00FFDD?style=flat-square)
-
-</div>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
 ## 💡 Projects
 
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [📚 Generalized DSA Library](https://github.com/vaibhavpatilX/Generalized-DSA-Library) | Reusable data structures & algorithm implementations | Java |
-| [🗜️ GUI File Packer Unpacker](https://github.com/vaibhavpatilX/GUI-File-Packer-Unpacker) | GUI-based file compression and extraction tool | Java |
-| [💻 CUI File Packer Unpacker](https://github.com/vaibhavpatilX/CUI-File-Packer-Unpacker) | Command-line file packer/unpacker utility | Java |
-| [📖 StudyTracker](https://github.com/vaibhavpatilX/StudyTracker) | Track and manage your study sessions | Java |
-
-</div>
+| Project | What it does | Tech |
+|--------|-------------|------|
+| [📚 Generalized DSA Library](https://github.com/vaibhavpatilX/Generalized-DSA-Library) | Reusable, well-documented data structures & algorithms | C++ |
+| [🗜️ GUI File Packer Unpacker](https://github.com/vaibhavpatilX/GUI-File-Packer-Unpacker) | Desktop GUI app for file compression & extraction | Java |
+| [💻 CUI File Packer Unpacker](https://github.com/vaibhavpatilX/CUI-File-Packer-Unpacker) | Terminal-based file packer/unpacker utility | Java |
+| [📖 StudyTracker](https://github.com/vaibhavpatilX/StudyTracker) | Track and manage daily study sessions | Java |
 
 ---
 
@@ -90,20 +89,12 @@ public class Vaibhav {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaibhavpatilX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-<img width="49%" src="https://streak-stats.demolab.com?user=vaibhavpatilX&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=vaibhavpatilX&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58A6FF&icon_color=58A6FF" />
+<img height="160" src="https://streak-stats.demolab.com?user=vaibhavpatilX&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavpatilX&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<br/>
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vaibhavpatilX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6&rank=SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavpatilX&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" />
 
 </div>
 
@@ -112,83 +103,49 @@ public class Vaibhav {
 ## 🐍 Contribution Snake
 
 <div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhavpatilX/vaibhavpatilX/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/vaibhavpatilX/vaibhavpatilX/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhavpatilX/vaibhavpatilX/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vaibhavpatilX/vaibhavpatilX/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/vaibhavpatilX/vaibhavpatilX/output/github-snake-dark.svg" />
 </picture>
-
 </div>
-
----
-
-<!-- ⏱️ WAKATIME: Uncomment once you sign up at wakatime.com and install the IDE plugin
-## ⏱️ WakaTime Coding Stats
-
-<div align="center">
-
-[![Vaibhav's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vaibhavpatilX&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800)](https://wakatime.com/@vaibhavpatilX)
-
-</div>
-
----
--->
-
-<!-- 📈 METRICS: Uncomment once you run the metrics.yml workflow
-## 📈 GitHub Metrics
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vaibhavpatilX/vaibhavpatilX/main/github-metrics.svg" alt="GitHub Metrics" width="70%" />
-
-</div>
-
----
--->
 
 ---
 
 ## ⏰ Dev Rhythm
 
-| Time | Activity |
-|------|----------|
+| 🕐 Time | 💻 Activity |
+|--------|------------|
 | ☀️ Morning | Algorithm & DSA Practice |
 | 🎧 Afternoon | Backend Coding & API Development |
 | 🌙 Night | GUI Projects & Java Library Experiments |
 
 ---
 
-## 🤝 Connect With Me
-
+<!-- Uncomment after WakaTime setup: sign up at wakatime.com + install IDE plugin
+## ⏱️ WakaTime Stats
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cs-er-vaibhav/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavpatilX)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patil.vaibhavx@gmail.com)
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=vaibhavpatilX&theme=github_dark&hide_border=true&layout=compact&title_color=58A6FF" />
 </div>
 
 ---
+-->
 
-## 💬 Dev Quote of the Day
-
+<!-- Uncomment after running metrics.yml workflow
+## 📈 GitHub Metrics
 <div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
+<img src="https://raw.githubusercontent.com/vaibhavpatilX/vaibhavpatilX/main/github-metrics.svg" width="70%" />
 </div>
 
 ---
-
-## ⚡ Fun Fact
-
-> *I love building reusable libraries, solving DSA challenges, and experimenting with Spring Boot — always with a ☕ in hand.*
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
